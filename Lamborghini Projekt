@@ -1,0 +1,61 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Lamborghini</title>
+</head>
+
+
+<body background="LamboGalaxie.jpg">
+<center>
+<div class="background" style="background-color:#000000">
+<h1><p style="font-size:50pt;color:white">Lamborghini</p></h1>
+
+</div>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<div class="background">
+<table border="0">
+<tr>
+<th><a href="Infos.html"><div class="background" style="background-color:#FFF(0, 0, 0, 0.5)"><div style="color:#FFF;opacity:1;font-size:30pt"><br>Infos</div><div class="background" style="background-color:rgba(0, 0, 0, 0.5)"></div></p></a>
+</th>
+<th><a href="Webseite.html"><div class="background" style="background-color:#FFF(0, 0, 0, 0.5)"><div style="color:#FFF;opacity:1;font-size:30pt"><br>Webseite</div></div></p></a></th>
+</th>
+<th><a href="Modelle.html"><div class="background" style="background-color:#FFF(0, 0, 0, 0.5)"><div style="color:#FFF;opacity:1;font-size:30pt"><br>Modelle</div></div></p></a></th>
+
+</tr>
+<tr>
+<td>
+</td>
+<td>
+</td>
+</tr>
+</table>
+</center>
+<br />
+<br />
+<div class="background" style="background-color:rgba(0, 0, 0, 0)">
+
+
+<table border="0">
+
+<tr>
+<th><div style="color:#FFF;opacity:1;font-size:20pt; float:left">Über uns</div>
+</th>
+<th><div style="color:#FFF;opacity:1;font-size:20pt; float:left; padding-left:150px;"> Legal</div>
+</th>
+</tr>
+<tr>
+<td><div style="color:#FFF;opacity:1;font-size:15pt"> Siamo il sito ufficiale Lamborghini, offriamo una varieta di supercar
+<br>
+</td>
+<td>
+<a href="Infos.html"><div style="color:white;opacity:1; float:left; font-size:15pt"><div style="color:#FFF;opacity:1;font-size:15pt; padding-left:150px;">Kontaktdaten</div></p></a>
+
+<a href="Infos.html"><div style="color:white;opacity:1; float:left; font-size:15pt"><div style="color:#FFF;opacity:1;font-size:15pt; padding-left:150px;">Informationen</div></p></a>
+</div>

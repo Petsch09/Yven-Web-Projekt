@@ -1,0 +1,50 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Modelle</title>
+</head>
+
+<body>
+
+
+<body background="LamboGalaxie.jpg">
+
+<center>
+<h1><div class="background" style="background-color:rgba(0, 0, 0, 0.4)"><div style="color:white;opacity:1;font-size:50pt">Modelle</div></p></h1>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<table border="1">
+<tr>
+<th><div class="background" style="background-color:rgba(0, 0, 0, 0.4)"><div style="color:#FFF;opacity:1;font-size:30pt">Aventador</div></div></p></a>
+</th>
+<th><div class="background" style="background-color:rgba(0, 0, 0, 0.4)"><div style="color:#FFF;opacity:1;font-size:30pt">Huracan</div></div></p></a></th>
+<th><div class="background" style="background-color:rgba(0, 0, 0, 0.4)"><div style="color:#FFF;opacity:1;font-size:30pt">Urus</div></div></p></a></th>
+
+</tr>
+<tr>
+
+<td><img src="Svj.jpg" height="140px" width="200px" align="middle">
+</td>
+<td><img src="Performante.jpg" height="140px" width="200px" align="middle">
+</td>
+<td><img src="Urus.jpg" height="140px" width="200px" align="middle">
+</td>
+</tr>
+<tr>
+  <th><div class="background" style="background-color:rgba(0, 0, 0, 0.4)"><div style="color:#FFF;opacity:1;font-size:15pt">Aerodinamica Lamborghini Attiva 2.0. Das ALA-System wurde für den Aventador Svj optimiert.Lamborghini weiß wie man sich hersausforderungen stellt, dafür wurde der Svj erschaffen.Um Spitzentechnologie auf kompromisslose Weise mit außergewöhnlichem Design zu verschmelzen. Der Svj bringt sagenhafte 770 PS auf die Straße.<br>Preis: ab 350.000€</div></p></a>
+  </th>
+  <th><div class="background" style="background-color:rgba(0, 0, 0, 0.4)"><div style="color:#FFF;opacity:1;font-size:15pt">Der Huracan Performante hat das Konzept Sportwagen vollkommen neu interpretiert un den Begriff der Leistung auf ein noch nie da gewesenes Niveau gehoben. Es wurde komplett am Gewicht, Motorleistung und Chassis gearbeitet. Der Huracan verfügt ebenfalls über das ALA-System, aber nicht über das vom Svj. Der Performante bringt starke 640 PS mit sich<br>Preis: ab 260.000€</div></p></a></th>
+  <th><div class="background" style="background-color:rgba(0, 0, 0, 0.4)"><div style="color:#FFF;opacity:1;font-size:15pt">Der Lamborghini Urus ist das Erste Super Utility Vehicle dee Welt, das die Seele eines Sportwagens mit der Funktionalität eines SUV vereint. Design, Performance, Fahrdynamik und Fahremotion verschmelzen zu einem visionären Fahrzeugkonzept, bei dem die unverwechselbare Lamborghini DNA in jeder Faser spürbar ist. Der Urus bringt unfassbare 650 PS mit sich <br>Preis: ab 250.000€</div></p></a></th>
+
+
+
+</table>
+
+<br />
+<div class="background" style="background-color:rgba(0, 0, 0, 0.4)"><div style="color:#FFF;opacity:1;font-size:10pt">Hier geht es zu unser Startseite:</div>
+<a href="Lamborghini Projekt.html"><div style="color:#FFF;opacity:1;font-size:20pt">Startseite</div></div></p></a>
